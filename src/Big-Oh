@@ -1,0 +1,4 @@
+(a) printRecieptInOrder
+    O(n), runs through the array list one time
+(b) emptyCartReverseOrder
+    O(n) deletes the index of the array one at a time
